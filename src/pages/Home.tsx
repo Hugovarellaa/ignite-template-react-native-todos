@@ -10,6 +10,7 @@ export type EditTaskArgs = {
   newTask: string;
 };
 
+
 export function Home() {
   const [tasks, setTasks] = useState<Task[]>([]);
 

@@ -67,12 +67,10 @@ export function TaskItem({
           testID={`button-${index}`}
           activeOpacity={0.7}
           style={styles.taskButton}
-          //TODO - use onPress (toggle task) prop
           onPress={() => toggleTaskDone(tasks.id)}
         >
           <View
             testID={`marker-${index}`}
-            //TODO - use style prop
             style={tasks.done ? styles.taskMarkerDone : styles.taskMarker}
           >
             {tasks.done && <Icon name="check" size={12} color="#FFF" />}
@@ -92,7 +90,6 @@ export function TaskItem({
         {isEditing ? (
           <TouchableOpacity
             testID={`trash-${index}`}
-            // style={{ paddingHorizontal: 24 }}
             onPress={handleCancelEditing}
           >
             <Icon name="x" size={24} color="#b2b2b2" />
@@ -108,7 +105,6 @@ export function TaskItem({
         <View style={styles.iconsDivider} />
         <TouchableOpacity
           testID={`trash-${index}`}
-          //TODO - use onPress (remove task) prop
           onPress={() => removeTask(tasks.id)}
           disabled={isEditing}
         >
