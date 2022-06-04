@@ -19,6 +19,14 @@
 
 &nbsp;
 
+
+## 💻 O que tem no projeto?
+
+- No desafio tinhamos que corrigir o codigo ja existente e implementar funcionalidades, e passe nos testes.
+
+- No segundo desafio tinhamos que implmentar a funcionalidade de editar o Todo e alerta ao tenta excluir.
+
+
 ## 🛠️ Tecnologias/Ferramentas ultilizadas
 
 - [React](https://pt-br.reactjs.org/E)
