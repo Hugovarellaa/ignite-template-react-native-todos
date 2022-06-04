@@ -26,6 +26,20 @@
 
 - No segundo desafio tinhamos que implmentar a funcionalidade de editar o Todo e alerta ao tenta excluir.
 
+## 💻 Documentação do desafio
+
+- [Desafio 1 - Chapter 1 React Native](https://chip-dryosaurus-9ab.notion.site/Chapter-I-Desafio-01-Conceitos-do-React-Native-3697ba4f1d044385b72aaf7b28d21df0)
+
+
+- [Desafio 2 - Chapter 1 React Native](https://chip-dryosaurus-9ab.notion.site/Chapter-I-Desafio-02-Adicionando-edi-o-e-alertas-7f9b47f77fab47bf8b7d86ed234a9e1c)
+
+<br/>
+
+## 🖼️ Template do projeto Figma
+
+- [Template do projeto original para clone](https://www.figma.com/file/C8kqA20R9fShwo3gPLjT5G/to.do-(Copy)?node-id=10485%3A499)
+
+<br/>   
 
 ## 🛠️ Tecnologias/Ferramentas ultilizadas
 
