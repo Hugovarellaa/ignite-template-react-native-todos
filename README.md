@@ -37,9 +37,15 @@
 
 ## 🖼️ Template do projeto Figma
 
-- [Template do projeto original para clone](https://www.figma.com/file/C8kqA20R9fShwo3gPLjT5G/to.do-(Copy)?node-id=10485%3A499)
+- [Template do projeto original para clone](https://www.figma.com/file/yp5R3Ti1uc1Qz3b4EGiqiK/to.do-(Copy)?node-id=10485%3A499)
 
 <br/>   
+
+## 🚀 Template do projeto Github 
+
+- [Template do projeto original para clone](https://github.com/rocketseat-education/ignite-template-react-native-todos)
+
+<br/> 
 
 ## 🛠️ Tecnologias/Ferramentas ultilizadas
 
